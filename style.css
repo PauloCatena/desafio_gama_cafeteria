@@ -119,21 +119,21 @@ a {
 }
 
 #capuccino_img {
-    background-image:url('../IMG/anuncio-capuccino.png'); 
+    background-image:url('IMG/anuncio-capuccino.png'); 
     background-size: contain;
     width: 100%; 
     height: 400px; 
   }
 
 #cafe-graos_img {
-    background-image:url('../IMG/anuncio-cafe-graos.png'); 
+    background-image:url('IMG/anuncio-cafe-graos.png'); 
     background-size: contain;
     width: 100%; 
     height: 400px; 
   }
 
 #espresso_img {
-    background-image:url('../IMG/anuncio-espresso.png'); 
+    background-image:url('IMG/anuncio-espresso.png'); 
     background-size: contain;
     width: 100%; 
     height: 400px; 
