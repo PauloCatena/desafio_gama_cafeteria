@@ -9,24 +9,25 @@ header {
     text-align: center;
 }
 
-li {
+.menu {
+    background-color: #acff2fa8;
+    margin-bottom: 10px;
+}
+
+.menu li {
     font-size: 25px;
     display: inline;
     list-style: none;
     padding: 0 20px;
 }
 
-.menu {
-    background-color: #acff2fa8;
-    margin-bottom: 10px;
-}
 
 a {
     color: #000000;
     text-decoration: none;
 }
 
-a:hover {
+.menu a:hover {
     font-size: 26px;
     transition: .6s;
     color: rgb(196, 33, 33);
@@ -51,25 +52,24 @@ a:hover {
     padding: 45px;
 }
 
-.produtos {
+.breakfast {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     gap: 24px;
-    
+    margin: 10px 5px;
 }
 
-.produto {
+.produto-b {
     width: 400px;
     background-color: rgba(236, 229, 229, 0.562);
     text-align: center;
 }
 
-
-
-.produto h1 {
+.produto-b h1 {
     font-size: 18px;
 }
+
 
 #prensadinho_img {
     background-image:url('/IMG/anuncio-prensadinho.png'); 
@@ -99,6 +99,45 @@ a:hover {
     height: 400px; 
   }
 
+
+.cafe {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 24px;
+    margin: 10px 5px;
+}
+
+.produto-c {
+    width: 400px;
+    background-color: rgba(236, 229, 229, 0.562);
+    text-align: center;
+}
+
+.produto-c h1 {
+    font-size: 18px;
+}
+
+#capuccino_img {
+    background-image:url('/IMG/anuncio-capuccino.png'); 
+    background-size: contain;
+    width: 100%; 
+    height: 400px; 
+  }
+
+#cafe-graos_img {
+    background-image:url('/IMG/anuncio-cafe-graos.png'); 
+    background-size: contain;
+    width: 100%; 
+    height: 400px; 
+  }
+
+#espresso_img {
+    background-image:url('/IMG/anuncio-espresso.png'); 
+    background-size: contain;
+    width: 100%; 
+    height: 400px; 
+  }
   
 .inf {
     padding: 10px;
@@ -108,7 +147,6 @@ a:hover {
     text-align: center;
     background-repeat: no-repeat;
     background-position-x: center;
-   
 }
 
 .inf img {
@@ -122,5 +160,24 @@ a:hover {
 .inf2 {
     text-align: center;
     padding: 10px;
-
 }
+
+.rodape {
+    background-color: #acff2fa8;
+    margin-top: 15px;
+    text-align: center;
+    line-height: 20px;
+    padding: 8px;
+}
+
+.rodape li {
+    font-size: 18px;
+    display: inline;
+    list-style: none;
+    padding: 0 20px;
+}
+
+.rodape p {
+    font-size: 15px;
+}
+
