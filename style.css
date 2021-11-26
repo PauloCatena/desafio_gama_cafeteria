@@ -93,7 +93,7 @@ a {
   }
 
 #combo-gama_img {
-    background-image:url('IMG/anuncioComboGama.png'); 
+    background-image:url('IMG/anuncioCombo.png'); 
     background-size: contain;
     width: 100%; 
     height: 400px; 
@@ -108,32 +108,32 @@ a {
     margin: 10px 5px;
 }
 
-.produto-c {
+.produtoc {
     width: 400px;
     background-color: rgba(236, 229, 229, 0.562);
     text-align: center;
 }
 
-.produto-c h1 {
+.produtoc h1 {
     font-size: 18px;
 }
 
 #capuccino_img {
-    background-image:url('IMG/anuncio-capuccino.png'); 
+    background-image:url('IMG/anuncioCapuccino.png'); 
     background-size: contain;
     width: 100%; 
     height: 400px; 
   }
 
 #cafe-graos_img {
-    background-image:url('IMG/anuncio-cafe-graos.png'); 
+    background-image:url('IMG/anuncioCafeGraos.png'); 
     background-size: contain;
     width: 100%; 
     height: 400px; 
   }
 
 #espresso_img {
-    background-image:url('IMG/anuncio-espresso.png'); 
+    background-image:url('IMG/anuncioEspresso.png'); 
     background-size: contain;
     width: 100%; 
     height: 400px; 
