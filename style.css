@@ -43,26 +43,6 @@ a:hover {
     background-image: url(/IMG/brunch.jpg);
 }
 
-
-.prensadinho-inf {
-    padding: 10px;
-    color: lavender;
-    text-shadow: 0.1em 0.1em 0.3em black;
-    font-size: 20px;
-    background-size: contain;
-    width: 100%;
-    height: 600px;
-    text-align: center;
-    background-repeat: no-repeat;
-    background-image: url(/IMG/prensadinho.jpg);
-    background-position-x: center;
-}
-
-.prensadinho-inf2 {
-    text-align: center;
-    padding: 10px;
-}
-
 .secundario {
     padding: 10px;
 }
@@ -118,3 +98,80 @@ a:hover {
     width: 100%; 
     height: 400px; 
   }
+
+  
+.prensadinho-inf {
+    padding: 10px;
+    color: lavender;
+    text-shadow: 0.1em 0.1em 0.3em black;
+    font-size: 20px;
+    background-size: contain;
+    width: 100%;
+    height: 600px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-image: url(/IMG/prensadinho.jpg);
+    background-position-x: center;
+}
+
+.prensadinho-inf2 {
+    text-align: center;
+    padding: 10px;
+
+.bagel-inf {
+    padding: 10px;
+    color: lavender;
+    text-shadow: 0.1em 0.1em 0.3em black;
+    font-size: 20px;
+    background-size: contain;
+    width: 100%;
+    height: 600px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-image: url(/IMG/Bagel.jpg);
+    background-position-x: center;
+}
+
+.bagel-inf2 {
+    text-align: center;
+    padding: 10px;
+}
+
+.panqueca-inf {
+    padding: 10px;
+    color: lavender;
+    text-shadow: 0.1em 0.1em 0.3em black;
+    font-size: 20px;
+    background-size: contain;
+    width: 100%;
+    height: 600px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-image: url(/IMG/panqueca.jpg);
+    background-position-x: center;
+}
+
+.panqueca-inf2 {
+    text-align: center;
+    padding: 10px;
+}
+
+.combo-gama-inf {
+    padding: 10px;
+    color: lavender;
+    text-shadow: 0.1em 0.1em 0.3em black;
+    font-size: 20px;
+    background-size: contain;
+    width: 100%;
+    height: 600px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-image: url(/IMG/combo1.jpg);
+    background-position-x: center;
+}
+
+.combo-gama-inf2 {
+    text-align: center;
+    padding: 10px;
+}
+
