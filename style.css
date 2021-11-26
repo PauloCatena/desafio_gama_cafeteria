@@ -41,7 +41,7 @@ a {
     height: 500px;
     max-height: 700px;
     background-repeat: no-repeat;
-    background-image: url(/IMG/brunch.jpg);
+    background-image: url(./IMG/brunch.jpg);
 }
 
 .secundario {
@@ -60,40 +60,40 @@ a {
     margin: 10px 5px;
 }
 
-.produto-b {
+.produtob {
     width: 400px;
     background-color: rgba(236, 229, 229, 0.562);
     text-align: center;
 }
 
-.produto-b h1 {
+.produtob h1 {
     font-size: 18px;
 }
 
 
 #prensadinho_img {
-    background-image:url('/IMG/anuncio-prensadinho.png'); 
+    background-image:url('./IMG/anuncioPrensadinho.png'); 
     background-size: contain;
     width: 100%; 
     height: 400px; 
   }
 
 #bagel_img {
-    background-image:url('/IMG/anuncio-bagel.png'); 
+    background-image:url('./IMG/anuncioBagel.png'); 
     background-size: contain;
     width: 100%; 
     height: 400px; 
   }
 
 #panqueca_img {
-    background-image:url('/IMG/anuncio-panqueca.png'); 
+    background-image:url('./IMG/anuncioPanqueca.png'); 
     background-size: contain;
     width: 100%; 
     height: 400px; 
   }
 
 #combo-gama_img {
-    background-image:url('/IMG/anuncio-combo-gama.png'); 
+    background-image:url('../IMG/anuncioComboGama.png'); 
     background-size: contain;
     width: 100%; 
     height: 400px; 
@@ -119,21 +119,21 @@ a {
 }
 
 #capuccino_img {
-    background-image:url('/IMG/anuncio-capuccino.png'); 
+    background-image:url('../IMG/anuncio-capuccino.png'); 
     background-size: contain;
     width: 100%; 
     height: 400px; 
   }
 
 #cafe-graos_img {
-    background-image:url('/IMG/anuncio-cafe-graos.png'); 
+    background-image:url('../IMG/anuncio-cafe-graos.png'); 
     background-size: contain;
     width: 100%; 
     height: 400px; 
   }
 
 #espresso_img {
-    background-image:url('/IMG/anuncio-espresso.png'); 
+    background-image:url('../IMG/anuncio-espresso.png'); 
     background-size: contain;
     width: 100%; 
     height: 400px; 
