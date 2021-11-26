@@ -18,6 +18,7 @@ li {
 
 .menu {
     background-color: #acff2fa8;
+    margin-bottom: 10px;
 }
 
 a {
@@ -40,6 +41,26 @@ a:hover {
     max-height: 700px;
     background-repeat: no-repeat;
     background-image: url(/IMG/brunch.jpg);
+}
+
+
+.prensadinho-inf {
+    padding: 10px;
+    color: lavender;
+    text-shadow: 0.1em 0.1em 0.3em black;
+    font-size: 20px;
+    background-size: contain;
+    width: 100%;
+    height: 600px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-image: url(/IMG/prensadinho.jpg);
+    background-position-x: center;
+}
+
+.prensadinho-inf2 {
+    text-align: center;
+    padding: 10px;
 }
 
 .secundario {
